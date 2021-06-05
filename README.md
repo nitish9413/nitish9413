@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitish
-- 👀 I’m interested in AI , Data Science
+- 👀 I’m interested in Blockchain , AI , Data Science
 - 🌱 I’m currently learning Python , ML , Data Science
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me telegram @cryuni
