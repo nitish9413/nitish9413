@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nitish9413
+- 👋 Hi, I’m Nitish
 - 👀 I’m interested in AI , Data Science
 - 🌱 I’m currently learning Python , ML , Data Science
 - 💞️ I’m looking to collaborate on Data Science
