@@ -17,6 +17,12 @@
 </a>
 <br> -->
 
+## 🎓 About me
+• I’m currently a pursuing my Bachelors in Computer Science & Engineering <br />
+<!-- • I'm [EX294 - Automation with Ansible - RedHat Certified Engineer](https://rhtapps.redhat.com/verify?certId=210-076-055) and [EX180 - RedHat Certified Specialist in Containers and Kubernetes](https://rhtapps.redhat.com/verify?certId=210-076-055)  <br /> -->
+• Data Science and Machine Learning Enthusiast.
+
+
 <!---
 nitish9413/nitish9413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
