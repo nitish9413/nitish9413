@@ -26,3 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=nitish9413&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nitish9413&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=nitish9413&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://activity-graph.herokuapp.com/graph?username=nitish9413&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />    
+    
+ </br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish9413&hide_border=true)](https://github.com/nitish9413/github-readme-stats)
+ 
