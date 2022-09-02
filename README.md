@@ -33,5 +33,5 @@
  
 <h2 align="center">Git Hub Stats</h2>
   
-<p align="centre"><img src="https://metrics.lecoq.io/Crackmindedsk" alt="Github Metrics"></p>
+<p align="centre"><img src="https://metrics.lecoq.io/nitish9413" alt="Github Metrics"></p>
  
