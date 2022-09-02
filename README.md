@@ -30,3 +30,8 @@
     
  </br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish9413&hide_border=true)](https://github.com/nitish9413/github-readme-stats)
  
+ 
+<h2 align="center">Git Hub Stats</h2>
+  
+<p align="centre"><img src="https://metrics.lecoq.io/Crackmindedsk" alt="Github Metrics"></p>
+ 
