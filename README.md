@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nitishkatkade1" target="blank"><img src="https://img.shields.io/twitter/follow/nitishkatkade1?logo=twitter&style=for-the-badge" alt="nitishkatkade1" /></a> </p>
 
-- 🔭 I’m currently working on **Insurance Premium Prediction**
+- 🔭 I’m currently working on **DEEP LEARNING**
 
 - 🌱 I’m currently learning **MLops**
 
