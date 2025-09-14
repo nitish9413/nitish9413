@@ -1,46 +1,24 @@
-<h1 align="center">Hi 👋, I'm Nitish</h1>
-<h3 align="center">A passionate Software Engineer & Data Engineer from India</h3>
+# 💫 About Me:
+🔭 I’m currently working as a Software Engineer on an HVAC Fault Detection and Diagnostics (FDD) Engine<br>⚡ My focus areas: Data Engineering, ETL pipelines, System Performance, and Robustness<br>🚀 Recently optimized large-scale data workflows by migrating from Pandas → Polars<br>🛠️ Experienced in rule development, modularization, and scaling real-time analytics<br>🌱 I’m currently learning MLops & Advanced Cloud Data Engineering<br>👯 I’m looking to collaborate on Data Engineering, ML, and AI projects<br>📫 How to reach me nitishkatkade94@gmail.com
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish9413&label=Profile%20views&color=0e75b6&style=flat" alt="nitish9413" /> </p>
 
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitishkatkade94@gmail.com) 
 
-- 🔭 I’m currently working as a **Software Engineer** on an **HVAC Fault Detection and Diagnostics (FDD) Engine**  
-- ⚡ My focus areas: **Data Engineering, ETL pipelines, System Performance, and Robustness**  
-- 🚀 Recently optimized large-scale data workflows by **migrating from Pandas → Polars**  
-- 🛠️ Experienced in **rule development, modularization, and scaling real-time analytics**  
-- 🌱 I’m currently learning **MLops & Advanced Cloud Data Engineering**  
-- 👯 I’m looking to collaborate on **Data Engineering, ML, and AI projects**  
-- 📫 How to reach me **nitishkatkade94@gmail.com**
+# 💻 Tech Stack:
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nitish9413&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nitish9413&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish9413&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nitishkatkade1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitishkatkade1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nitishkatkade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitishkatkade" height="30" width="40" /></a>
-<a href="https://instagram.com/nitishkatkade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitishkatkade" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=nitish9413&icon=0&color=9)](https://visitcount.itsvg.in)
 
-![](https://github-readme-stats.vercel.app/api?username=nitish9413&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nitish9413&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish9413&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://activity-graph.herokuapp.com/graph?username=nitish9413&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />    
 
-</br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish9413&hide_border=true)](https://github.com/nitish9413/github-readme-stats)
-
-<h2 align="center">GitHub Stats</h2>
-<p align="centre"><img src="https://metrics.lecoq.io/nitish9413" alt="Github Metrics"></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
