@@ -1,9 +1,13 @@
 # Nitish Katkade — Data Engineer
+[![Databricks Certified Data Engineer](https://img.shields.io/badge/Databricks_Certified-Data_Engineer_Associate-FF3621?style=flat&logo=databricks&logoColor=white)](https://credentials.databricks.com/YOUR_CREDENTIAL_ID)
+
+[![Databricks Certified Data Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/175835796)](https://credentials.databricks.com/175835796)
 
 Software Engineer building production-grade **data pipelines, ETL systems, and Lakehouse infrastructure**.  
 Currently engineering an **HVAC Fault Detection & Diagnostics (FDD) Engine** designing the data layer for real time rule evaluation and analytics at scale.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish9413&label=Profile%20views&color=0e75b6&style=flat" alt="nitish9413" /> </p>
+
 ---
 
 ## What I build
